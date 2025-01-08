@@ -1,0 +1,4 @@
+Chat History: {'role': 'user', 'content': 'what is datascience'}
+
+Chat History: {'role': 'bot', 'content': 'Data Science is an interdisciplinary field that uses scientific methods, algorithms, processes, and systems to extract knowledge and insights from structured and unstructured data. It involves various fields such as mathematics, statistics, information science, and computer science, including data mining, machine learning, and data visualization. Data Scientists analyze and interpret complex data to help companies make decisions.'}
+
